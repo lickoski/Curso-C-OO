@@ -1,10 +1,9 @@
 ﻿using System;
 
-namespace ExercicioImpostoRenda
-{
-    class ExercicioImpostoRenda
+
+    public class ExercicioImpostoRenda
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             Console.WriteLine("Digite seu Salário:");
             var salario = decimal.Parse(Console.ReadLine());
@@ -35,8 +34,7 @@ namespace ExercicioImpostoRenda
                 Console.WriteLine("Sua alíquota de imposto de renda é 27,5%");
             }
 
-            Console.ReadKey();
+            Console.ReadLine();
 
         }
-    }
 }
