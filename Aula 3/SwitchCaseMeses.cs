@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ExercicioImpostoRenda
+					
+public class Program
 {
-    class SwitchCaseMeses
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Digite o número do mês");
+	public static void Main()
+	{
+			Console.WriteLine("Digite o número do mês");
             var mesNumerico = int.Parse(Console.ReadLine());
 
             switch (mesNumerico)
@@ -47,14 +43,13 @@ namespace ExercicioImpostoRenda
                     Console.WriteLine("Novembro");
                     break;
                 case 12:
-                    Console.WriteLine("Agosto");
+                    Console.WriteLine("Dezembro");
                     break;
                 default:
                     Console.WriteLine("Mês inválido!");
                     break;
             }
 
-            Console.ReadKey();
-        }
-    }
+            Console.ReadLine();
+	}
 }
