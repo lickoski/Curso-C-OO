@@ -1,0 +1,10 @@
+- Fazer um algoritmo para Incluir, Alterar , Consultar e Imprimir Todos os Produtos.
+- O sistema deve ter as opções 1 - Incluir, 2 - Alterar, 3 - Consultar, 4 - Imprimir todos ,  0 - Sair
+- O produto deve ter os campos Codigo, Descricao e Valor(Todos podem ser String)
+- A opção de Incluir deve ler os campos dos produtos e incluir na matriz(Não precisa tratar duplicidade)
+- A opção de Alterar deve perguntar o código do produto que deseja alterar e ler os campos,  
+ser persistido na matriz e na posição onde está o produto.(O código não deve ser alterardo)
+
+- A opção de Consultar deve ler o codigo do produto e Escrever na tela todos os campos do produto
+- A opção de Imprimir Todos deve escrever na tela todos os produtos da lista
+- A opção de Sair deve fechar o sistema
