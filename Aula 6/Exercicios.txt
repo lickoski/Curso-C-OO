@@ -1,0 +1,16 @@
+
+IMPLEMENTE COM CLASSE!
+
+1 - Crie um algoritmo onde guarde uma lista de de 5 pessoas, ao final do algoritmo escreva o nome de todas as pessoas .
+
+2 - Crie um algoritmo para guardar o salário de X(ler a quantidade) pessoas, ao final do algoritmo escrever na tela a soma dos salários.
+
+3 - Crie um algoritmo para ler a idade de X pessoas, ao final o algoritmo deve escrever na tela apenas as idades maiores que 18.
+
+4 - Crie um algoritmo e crie uma lista de X pessoas, após criar a lista crie uma nova lista apenas com as primeiras 5 pessoas da lista anterior.
+
+5 - Crie um algoritmo para armazenar clientes, onde os campos nome, cidade, bairro e estado devem ser preenchidos . Após ler os dados dos clientes, escreva na tela os dados de todos os clientes.
+
+6 - Crie um algoritmo para ler o nome e a idade de 10 usuários, após ler os dados apresente na tela o nome dos usuários maiores de 18 anos, após escreva na tela o valor da menor idade inserida.
+
+7 - Refaça o trabalho da Aula 5, utilizando classes!
