@@ -8,5 +8,18 @@ namespace Trabalho
 {
     class Cliente
     {
+        public double Cpf;
+
+        public string Nome;
+
+        public string Endereco;
+
+        public string Cidade;
+
+        public string Bairro;
+
+        public string Uf;
+
+        public decimal Salario;
     }
 }
