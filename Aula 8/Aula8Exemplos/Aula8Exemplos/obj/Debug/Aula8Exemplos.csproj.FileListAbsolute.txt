@@ -1,0 +1,7 @@
+c:\users\tiago\source\repos\Aula8Exemplos\Aula8Exemplos\bin\Debug\Aula8Exemplos.exe.config
+c:\users\tiago\source\repos\Aula8Exemplos\Aula8Exemplos\bin\Debug\Aula8Exemplos.exe
+c:\users\tiago\source\repos\Aula8Exemplos\Aula8Exemplos\bin\Debug\Aula8Exemplos.pdb
+c:\users\tiago\source\repos\Aula8Exemplos\Aula8Exemplos\obj\Debug\Aula8Exemplos.csprojResolveAssemblyReference.cache
+c:\users\tiago\source\repos\Aula8Exemplos\Aula8Exemplos\obj\Debug\Aula8Exemplos.csproj.CoreCompileInputs.cache
+c:\users\tiago\source\repos\Aula8Exemplos\Aula8Exemplos\obj\Debug\Aula8Exemplos.exe
+c:\users\tiago\source\repos\Aula8Exemplos\Aula8Exemplos\obj\Debug\Aula8Exemplos.pdb
