@@ -1,0 +1,6 @@
+- Criar uma estutura de classes para atender a regra de negócio de uma conta bancária
+  Onde teremos que ter uma conta bancária que pertence a uma pessoa
+  Esta conta bancária deve possuir os métodos de Depositar e Sacar, onde deve ser guardado o histórico desta transação
+  A conta bancária também deve possuir um método para obter o valor do saldo atual, realizando o calculo pelo histórico das
+ transações
+  Para finalizar deveremos ter a opção de impressão do extrato bancário
